@@ -1,3 +1,20 @@
+# Speedgame workflow instructions by Margit Tennosaar / 16.9.2019
+
+1. npx create-react-app speedgame
+2. Clean application
+3. Connect with github
+4. plan your app and think what component you need?
+    - by default we go with class component
+    - ou can choose also to use useState hook
+5. Create UI
+    - circles
+    - buttons
+    - hidden popup window
+
+
+-----------------------
+#REACT
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -7,6 +24,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br>
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
