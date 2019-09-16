@@ -1,4 +1,4 @@
-# Speedgame workflow instructions by Margit Tennosaar / 16.9.2019
+## Speedgame workflow instructions by Margit Tennosaar / 16.9.2019
 
 1. npx create-react-app speedgame
 2. Clean application
